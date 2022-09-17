@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap');
+
+:root{
+    --clr-accent-100:#1F50FF;
+
+    --clr-primary-400:#000000;
+    --clr-primary-300:#303030;
+    --clr-primary-200:#555555;
+    --clr-primary-100:#888888;
+
+
+    --ff-primary: 'Work Sans', sans-serif;
+
+    --ff-body: var(--ff-primary);
+    --ff-heading: var(--ff-primary);
+
+    --fw-regular:400;
+    --fw-medium:500;
+    --fw-SemiBold:600;
+
+    --fs-100:0.375rem;
+    --fs-200:0.4375rem;
+    --fs-300:0.5rem;
+    --fs-400:0.625rem;
+    --fs-500:0.75rem;
+    --fs-600:0.875rem;
+    --fs-700:1rem;
+}
+
